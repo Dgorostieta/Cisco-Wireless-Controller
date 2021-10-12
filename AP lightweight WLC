@@ -1,2 +1,15 @@
 Direccionar AP lightweight 
 lwapp ap controller ip address 
+
+Mobility controller to AP lightweight 
+
+
+Vaya a AP Cisco Shell:
+(Controlador de Cisco)> apciscoshell
+
+Regístrese nuevamente en el AP
+Vaya al modo de habilitación:
+(Controlador de Cisco)> en
+
+Cambie al modo CAPWAP:
+(Controlador de Cisco)> ap-type capwap
