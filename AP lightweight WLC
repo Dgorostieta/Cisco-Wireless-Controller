@@ -1,6 +1,9 @@
 Direccionar AP lightweight 
 lwapp ap controller ip address 
 
+
+#capwap ap  primary-base <name> <IP>
+
 Mobility controller to AP lightweight 
 
 
