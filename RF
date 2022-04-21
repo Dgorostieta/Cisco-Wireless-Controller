@@ -1,0 +1,13 @@
+RF PROFILES
+
+•Verify the number of WLANs by entering this command:
+(Cisco Controller) >show wlan summary
+
+•Disable unwanted WLANs by entering this command:
+(Cisco Controller) >config wlan disable wlan-id
+
+• Verify Band Select by entering this command:
+(Cisco Controller) >show band-select
+
+• Enable Band Select on a WLAN by entering this command:
+(Cisco Controller) >config wlan band-select allow enable wlan-id
