@@ -1,0 +1,10 @@
+#################System Info##############
+show sysinfo
+show license summary
+show license all
+show license detail license_name
+show license {expiring | evaluation | permanent | in-use}
+show license capacity
+show license statistics
+show license feature
+show ap max-count summary
