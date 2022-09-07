@@ -16,3 +16,9 @@ Vaya al modo de habilitación:
 
 Cambie al modo CAPWAP:
 (Controlador de Cisco)> ap-type capwap
+
+
+
+Pasar de Automo a Light
+
+archive download-sw /force-reload /overwrite tftp://10.144.81.134/ap1g2-k9w8-tar.153-3.JF15.tar
