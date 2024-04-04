@@ -1,3 +1,8 @@
 wireless ewc-ap ap shell username Cisco
 pass: Cisco
 en: Cisco
+
+
+CO_CLIENT_DELETE
+show wireless stats trace-on.failure
+show wireless stats client delete reasons
